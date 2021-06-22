@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jizhou Kang&#39;s Personal Website</title>
+    <link>https://jkang37.github.io/project/</link>
+      <atom:link href="https://jkang37.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Jizhou Kang</copyright><lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkang37.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://jkang37.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>An Alternative Solution for Mixture Models with Unknown Number of Components</title>
+      <link>https://jkang37.github.io/project/bdmcmc-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/bdmcmc-project/</guid>
+      <description>&lt;p&gt;In this project, we investigate a MCMC algorithm specially designed to slove the problem when the dimension of parameter space can differ by iterations. The BDMCMC algotrithm can be viewed as a special version of RJMCMC. Combining the knowledge about Markov process and Poisson process we have learned from the class, we showed how this algorithm is smartly designed to incorporate the posterior distribution as the stationary distribution for the ergodic chain. The algorithms we presented is illustrate with one example using the iris virginica data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference for Complex Mathematical Model</title>
+      <link>https://jkang37.github.io/project/objective-bayes-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/objective-bayes-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reviewed literature about Gaussian process, uncertainty quantification and model calibration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Researched on finding appropriate prior for a new calibration method: exploring subjective prior, deriving reference prior, and proving propriety as well as running simulations to compare their property.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tested validation of new method by using MCMC simulation to solve a real calibration problem for volcano model and compared with other existing methods.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Worked on the paper Objective Bayesian Calibration for Imperfect Mathematical Models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonparametric Density Regression for Ordinal Responses</title>
+      <link>https://jkang37.github.io/project/bayesian-nonparametric-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/bayesian-nonparametric-project/</guid>
+      <description>&lt;p&gt;Ordinal data are challenging to model in a way that accounts for the ordinal nature of the responses and is computationally feasible to make inference from, and accommodating multiple ordinal responses is especially complex. Standard parametric models for ordinal responses enforce certain relationships between the responses and covariates, which may be too restrictive for data applications. We studied a Bayesian nonparametric mixture modelling approach to ordinal regression, which builds from the density regression modelling framework. The ordinal regression model can be used to flexibly estimate more than just the regression functions for the response conditional on covariates. It can also provide general inference for the covariate distribution, for the distribution of the covariates given the response variable, as well as for relationships between the ordinal responses in multivariate ordinal regression. We have shown multiple examples of accomplish such tasks, with both simulated data and real data. Besides, we also present the theoretical foundations that ensure the efficient compuation and inference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction Using Advanced Statistical Learning Method</title>
+      <link>https://jkang37.github.io/project/house-price-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/house-price-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reviewed literature about data cleaning, feature selection, and statistical modeling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coded in R for missing data imputation, data visualization and exploratory data analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implied Lasso regression and tree based method to select features and do out-of-sample prediction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ranked top 10% among more than 2000 teams in a related Kaggle competition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Extended the method to a big dataset (millions of items) and developed a spacial-temporal simulator.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medical Image Edge Detection</title>
+      <link>https://jkang37.github.io/project/medical-image-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/medical-image-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed and modified the new image smoothing model based on TV model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explored the optimization method of edge detection algorithm based on IRLS algorithm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Achieved specific segmentation based on Watershed Algorithm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Awarded prized National Technology Innovation Competition Certification.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing and Application in Spam/Ham Detection</title>
+      <link>https://jkang37.github.io/project/spam-ham-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/spam-ham-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Implied ”re” package in PYTHON and a TF-IDF criteria to process natural language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coded in PYTHON a naive Bayesian classifier by minimizing a self-defined loss function.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Achieved over 98% accuracy(about 30% improvement from the baseline model).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Bayesian Mixture Modeling for Ordinal Regression</title>
+      <link>https://jkang37.github.io/project/bnp-ordinal-regression-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/bnp-ordinal-regression-project/</guid>
+      <description>&lt;p&gt;Traditionally, ordinal responses are assumed to arise from discretizing a latent continuous distribution, with covariate effects entering linearly. This approach limits the covariate-response functional relationship and faces computational challenges when the number of categories is large. We develop a novel Bayesian nonparametric modeling approach to ordinal regression, based on priors placed directly on the discrete distribution of the ordinal responses. The nonparametric model is built from a structured mixture of multinomial distributions. We leverage a continuation-ratio logits representation and Polya-gamma augmentation to formulate the mixture kernel, while the mixing weights are defined through a stick-breaking process that depend on covariates. The regression functions under the mixture model can be expressed as weighted sums of regression functions under traditional parametric models, with weights dependent on covariates. Thus, the modeling approach achieves flexibility in ordinal regression relationships, avoiding linearity or additivity assumptions in the covariate effects. Moreoer, the model retains a conditional independent structure for category-specific parameters, which results in computational efficiency in posterior simulation by allowing partial parallel sampling. The methodology is illustrated with several data examples.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Spike-and-Slab LASSO</title>
+      <link>https://jkang37.github.io/project/ssl-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/ssl-project/</guid>
+      <description>&lt;p&gt;Variable selection and parameter estimation in multiple linear regression have been a hot topic in statistical learning for a long time. Two widely adopted method, namely the penalized likelihood approaches and the spike-and-slab approaches, have been developed parallelly. In this report, we review the Spike-and-Slab LASSO procedure, which bridges the the gap between the two classic method. This newly developed methodology has the virtue that it not only performs shrinkage on each individual coordinate, but also borrows strength accross coordinates, adapt to ensemble sparsity information. In this report, we reviewed the formulation of the Spike-and-Slab LASSO procedure, its implementation detail, and its extension to multivariate regression. We also provide simulation studies and one real data example to demonstrate the performance of this method.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

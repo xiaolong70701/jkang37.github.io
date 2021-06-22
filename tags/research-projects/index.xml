@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Projects | Jizhou Kang&#39;s Personal Website</title>
+    <link>https://jkang37.github.io/tags/research-projects/</link>
+      <atom:link href="https://jkang37.github.io/tags/research-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Jizhou Kang</copyright><lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkang37.github.io/img/icon-192.png</url>
+      <title>Research Projects</title>
+      <link>https://jkang37.github.io/tags/research-projects/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Inference for Complex Mathematical Model</title>
+      <link>https://jkang37.github.io/project/objective-bayes-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/objective-bayes-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reviewed literature about Gaussian process, uncertainty quantification and model calibration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Researched on finding appropriate prior for a new calibration method: exploring subjective prior, deriving reference prior, and proving propriety as well as running simulations to compare their property.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tested validation of new method by using MCMC simulation to solve a real calibration problem for volcano model and compared with other existing methods.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Worked on the paper Objective Bayesian Calibration for Imperfect Mathematical Models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medical Image Edge Detection</title>
+      <link>https://jkang37.github.io/project/medical-image-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/medical-image-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed and modified the new image smoothing model based on TV model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explored the optimization method of edge detection algorithm based on IRLS algorithm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Achieved specific segmentation based on Watershed Algorithm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Awarded prized National Technology Innovation Competition Certification.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Bayesian Mixture Modeling for Ordinal Regression</title>
+      <link>https://jkang37.github.io/project/bnp-ordinal-regression-project/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jkang37.github.io/project/bnp-ordinal-regression-project/</guid>
+      <description>&lt;p&gt;Traditionally, ordinal responses are assumed to arise from discretizing a latent continuous distribution, with covariate effects entering linearly. This approach limits the covariate-response functional relationship and faces computational challenges when the number of categories is large. We develop a novel Bayesian nonparametric modeling approach to ordinal regression, based on priors placed directly on the discrete distribution of the ordinal responses. The nonparametric model is built from a structured mixture of multinomial distributions. We leverage a continuation-ratio logits representation and Polya-gamma augmentation to formulate the mixture kernel, while the mixing weights are defined through a stick-breaking process that depend on covariates. The regression functions under the mixture model can be expressed as weighted sums of regression functions under traditional parametric models, with weights dependent on covariates. Thus, the modeling approach achieves flexibility in ordinal regression relationships, avoiding linearity or additivity assumptions in the covariate effects. Moreoer, the model retains a conditional independent structure for category-specific parameters, which results in computational efficiency in posterior simulation by allowing partial parallel sampling. The methodology is illustrated with several data examples.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
