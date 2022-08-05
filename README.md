@@ -3,10 +3,10 @@
 I am a Ph.D. candidate in [Statistical science](https://engineering.ucsc.edu/departments/statistics) at [University of California Santa Cruz](https://www.ucsc.edu/), surpervised by [Athanasios Kottas](https://users.soe.ucsc.edu/~thanos/).
 
 **My research interests include:** 
-- 1. Bayesian Nonparametrics
-- 2. Categorical data analysis
-- 3. Longitudinal data analysis
-- 4. Statistical learning and computing
+- Bayesian Nonparametrics
+- Categorical data analysis
+- Longitudinal data analysis
+- Statistical learning and computing
 
 **How to reach me**
 - Email: jkang37 (at) ucsc (dot) edu
