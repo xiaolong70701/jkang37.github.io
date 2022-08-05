@@ -1,4 +1,4 @@
-### Welcome, I'm [Jizhou Kang](https://jkang37.github.io/)!
+### Welcome, I'm [Jizhou Kang!](https://jkang37.github.io/)
 
 I am a Ph.D. Candidate in [Statistical science](https://engineering.ucsc.edu/departments/statistics) at [University of California Santa Cruz](https://www.ucsc.edu/), surpervised by [Athanasios Kottas](https://users.soe.ucsc.edu/~thanos/).
 
